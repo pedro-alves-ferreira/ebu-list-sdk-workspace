@@ -4,6 +4,3 @@
 [submodule "packages/bisect-core-ts-be"]
 	path = packages/bisect-core-ts-be
 	url = https://github.com/bisect-pt/bisect-core-ts-be.git
-[submodule "packages/ebu-list-sdk"]
-	path = packages/ebu-list-sdk
-	url = https://github.com/bisect-pt/ebu-list-sdk.git
