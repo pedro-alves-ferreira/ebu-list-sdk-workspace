@@ -1,6 +1,3 @@
-[submodule "packages/ebu-list-sdk"]
-	path = packages/ebu-list-sdk
-	url = https://github.com/pedro-alves-ferreira/ebu-list-sdk.git
 [submodule "packages/bisect-core-ts"]
 	path = packages/bisect-core-ts
 	url = https://github.com/bisect-pt/bisect-core-ts.git
