@@ -1,7 +1,6 @@
 {
   "packages": [
     "packages/bisect-core-ts",
-    "packages/bisect-core-ts-be",
     "packages/ebu-list-sdk",
     "packages/ebu-list-sdk/be",
     "packages/ebu-list-sdk/lib",
