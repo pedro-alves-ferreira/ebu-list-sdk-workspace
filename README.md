@@ -3,16 +3,29 @@ It includes dependencies that are linked using lerna.
 
 # Boostrapping
 
-`yarn install`
-`npx lerna bootstrap`
+If `yarn` is not installed:
+```
+sudo npm i --global yarn
+```
+
+Bootstrap project:
+
+```
+yarn install
+npx lerna bootstrap
+```
 
 # Building
 
-`npx lerna run build`
+```
+npx lerna run build
+```
 
 
 # Running demos
 
-`npx lerna run start -- -- login --baseUrl https://list.ebu.io --username demo --password demo`
+```
+npx lerna run start -- -- login --baseUrl https://list.ebu.io --username demo --password demo
+```
 
 (note the double `'--'`)
